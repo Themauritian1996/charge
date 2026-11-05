@@ -17,3 +17,11 @@ puis publié dans l'onglet **Releases** du dépôt.
   - Workout sur mesure : type (musculation, HIIT, mixte, circuit, course, intervalles, Tabata, EMOM/AMRAP…), difficulté, durée, zone ciblée, matériel.
   - Profil et objectifs, bilan de progression, programme de la semaine, analyse d'une séance, questions libres.
 - **Minuteur d'intervalles** avec bips et vibrations (Tabata, HIIT, EMOM, sprints).
+
+## Nouveautés 1.2
+
+- **Pause pendant une séance** : le chrono, les rappels horaires, le repos et la mise en veille de l'écran sont suspendus ; la durée enregistrée exclut les pauses.
+- **Calories estimées** (méthode MET, poids du profil) : par séance, sur 7 et 30 jours. La course, le vélo et la marche utilisent la vitesse réelle.
+- **Difficulté de l'exercice** (1 à 5) après la dernière série : la prochaine fois, Charge propose d'augmenter ou d'alléger la charge, les reps ou le temps, et le coach IA en tient compte.
+- **Onglet Progrès > Santé et repères** : IMC, masse grasse estimée, poids santé, rapport taille/tour de taille, métabolisme de base et besoin quotidien, FC max et zones cardio, VO2max estimé comparé à la moyenne de ton âge et de ton sexe, force relative comparée à des repères usuels, recommandations de l'OMS, suivi du poids.
+- **Équilibre musculaire**, **trophées**, **calculateur de disques**.
